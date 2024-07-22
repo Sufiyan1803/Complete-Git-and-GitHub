@@ -114,7 +114,7 @@ git stash apply
 Feel free to contribute to this repository by opening issues and submitting pull requests!
 
 ## Special Thanks
-Special thanks to Hitesh Choudhary and his YouTube channel [Chai aur Code](https://www.youtube.com/@chaiaurcode). For more resources, visit the [Chai aur Code documentation](https://docs.chaicode.com).
+Special thanks to Hitesh Choudhary and his YouTube channel [Chai aur Code](https://www.youtube.com/@chaiaurcode). 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
